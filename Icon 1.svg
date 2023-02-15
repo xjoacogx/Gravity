@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 33 33">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #72d9d8;
+        stroke-width: 5px;
+      }
+
+      .cls-2 {
+        fill: #72d9d8;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Icon_1" data-name="Icon 1" transform="translate(-998 -615)">
+    <g id="C" class="cls-1" transform="translate(998 615)">
+      <circle class="cls-3" cx="16.5" cy="16.5" r="16.5"/>
+      <circle class="cls-4" cx="16.5" cy="16.5" r="14"/>
+    </g>
+    <path id="T" class="cls-2" d="M6.5,0,13,12H0Z" transform="translate(1021 625) rotate(90)"/>
+  </g>
+</svg>
